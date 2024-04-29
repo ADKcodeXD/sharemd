@@ -3,15 +3,12 @@ title: ADK个人笔记~
 email: adk16604981@google.com
 description: >- # 这是站点描述
   This is a simple site for my markdown.
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # 构建设置
 markdown: kramdown
-theme: minima
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # 其他可选项
 permalink: /:year/:month/:day/:title/
