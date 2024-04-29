@@ -1,0 +1,28 @@
+# 站点设置
+title: ADK个人笔记~
+email: adk16604981@google.com
+description: >- # 这是站点描述
+  This is a simple site for my markdown.
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# 构建设置
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 排除文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle
+  - vendor/cache
+  - vendor/gems
+  - vendor/ruby/
+
+# 其他可选项
+permalink: /:year/:month/:day/:title/
+paginate: 5 # 每页显示的数量
