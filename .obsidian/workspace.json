@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a3b31af2cdf1064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZULU.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f541ae7abf677f32",
             "type": "leaf",
             "state": {
@@ -27,8 +15,7 @@
               "state": {
                 "file": "ZULU.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -159,10 +146,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2a3b31af2cdf1064",
+  "active": "f541ae7abf677f32",
   "lastOpenFiles": [
-    "Image/Pasted.md",
+    "171440846100088wisx.png",
     "ZULU.md",
+    "1714408599000ge1ppu.png",
+    "1714408563000mlp5dy.png",
+    "1714408547000om7hpj.png",
+    "1714408507000vrhmk9.png",
+    "1714408486000d88kzq.png",
+    "1714408438000hd074q.png",
+    "1714408388000zd8g9z.png",
+    "1714408360000u01a8u.png",
+    "17144083200005coy1w.png",
+    "Image/Pasted.md",
     "_includes/head.html",
     "_includes",
     "assets/css/style.scss",
@@ -174,16 +171,6 @@
     "style/assets",
     "style",
     "README.md",
-    "Aggregata.md",
-    "Image/Pasted image 20240429181300.png",
-    "Image/Pasted image 20240429181227.png",
-    "Image/Pasted image 20240429181155.png",
-    "Image/Pasted image 20240429180934.png",
-    "Image/Pasted image 20240429180752.png",
-    "Image/Pasted image 20240429180714.png",
-    "Image/Pasted image 20240429180705.png",
-    "Image/Pasted image 20240429180558.png",
-    "Image/Pasted image 20240429180428.png",
-    "Image/Pasted image 20240429180340.png"
+    "Aggregata.md"
   ]
 }
