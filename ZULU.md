@@ -24,13 +24,15 @@ https://testnet.zulunetwork.io/lwazi?code=KD2RXH
 
 可以看到以下界面：
 
-![image](/Image/Pasted%20image%2020240429175929.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408267000fb1a3s.png)
+
 
 链接钱包，关注推特，加入discord(必须要加)，tel，就可以进入到任务界面。
 
 任务界面如下：
 
-![image](/Image/Pasted%20image%2020240429180049.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/17144083200005coy1w.png)
+
 
 第一次链接需要添加ZULU测试网
 
@@ -47,13 +49,14 @@ https://testnet.zulunetwork.io/lwazi?code=KD2RXH
 
 首先我们要加入discord 到discord里领水
 
-![image](/Image/Pasted%20image%2020240429180340.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408360000u01a8u.png)
+
 
 在这里at机器人 附上你的evm地址就可以了
 
 快的话 大概一分钟内机器人就有响应
 
-![image](/Image/Pasted%20image%2020240429180428.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408388000zd8g9z.png)
 
 ### 转账&增加流动性
 
@@ -65,8 +68,7 @@ https://adamdefi.io/swap
 
 进入该网站了可以看到如下
 
-![image](/Image/Pasted%20image%2020240429180558.png)
-
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408438000hd074q.png)
 
 链接钱包 有余额就可以开始转账了 大概互转十次左右就行了 建议多个币种分别不同都转一点
 
@@ -74,15 +76,12 @@ https://adamdefi.io/swap
 
 点击 pool
 
-![image](/Image/Pasted%20image%2020240429180705.png)
-
-
-![image](/Image/Pasted%20image%2020240429180714.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/171440846100088wisx.png)
 
 
 随便选择两个货币就可以添加流动性了，并且两个货币的价值要对等。
 
-![image](/Image/Pasted%20image%2020240429180752.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408486000d88kzq.png)
 
 
 ## 跨链桥
@@ -94,7 +93,7 @@ https://testnet.zulunetwork.io/bridge
 
 右上角切换网络 
 
-![image](/Image/Pasted%20image%2020240429180934.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408507000vrhmk9.png)
 
 需要支持tBTC网络的钱包
 
@@ -106,15 +105,16 @@ https://chromewebstore.google.com/detail/unisat-wallet/ppbibelpcjmhbdihakflkdcoc
 
 这个选TESTNET
 
-![image](/Image/Pasted%20image%2020240429181155.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408547000om7hpj.png)
+
 
 地址类型选第三个
 
-![image](/Image/Pasted%20image%2020240429181227.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408563000mlp5dy.png)
 
 
 链接好后就可以开始交互了。
 
 地址输好 金额打好，就可以转账了，每天转三次就有900分了。
 
-![image](/Image/Pasted%20image%2020240429181300.png)
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/1714408599000ge1ppu.png)
