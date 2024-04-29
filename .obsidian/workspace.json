@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZULU Network BTC测试网Layer2.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZULU Network BTC测试网Layer2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZULU Network BTC测试网Layer2.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZULU Network BTC测试网Layer2.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "f541ae7abf677f32",
   "lastOpenFiles": [
+    "ZULU Network BTC测试网Layer2.md",
+    "README.md",
     "Image/Pasted image 20240429181300.png",
     "Image/Pasted image 20240429181227.png",
     "Image/Pasted image 20240429181155.png",
@@ -171,9 +173,6 @@
     "Image/Pasted image 20240429180558.png",
     "Image/Pasted image 20240429180428.png",
     "Image/Pasted image 20240429180340.png",
-    "Image/Pasted image 20240429180049.png",
-    "ZULU Network BTC测试网Layer2.md",
-    "Aggregata.md",
-    "README.md"
+    "Aggregata.md"
   ]
 }
