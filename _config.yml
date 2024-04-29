@@ -13,3 +13,5 @@ plugins:
 # 其他可选项
 permalink: /:year/:month/:day/:title/
 paginate: 5 # 每页显示的数量
+
+baseurl: "/sharemd" # 注意前面有斜杠，后面没有斜杠
