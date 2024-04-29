@@ -14,3 +14,4 @@ plugins:
 permalink: /:year/:month/:day/:title/
 paginate: 5 # 每页显示的数量
 
+baseurl: /sharemd
