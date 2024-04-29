@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aggregata.md",
+                "file": "ZULU.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZULU Network BTC测试网Layer2.md",
+                "file": "ZULU.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aggregata.md",
+                "file": "ZULU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aggregata.md",
+                "file": "ZULU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aggregata.md"
+                "file": "ZULU.md"
               }
             }
           }
@@ -159,10 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04a9c46ed78e3d1f",
+  "active": "2a3b31af2cdf1064",
   "lastOpenFiles": [
-    "ZULU Network BTC测试网Layer2.md",
     "README.md",
+    "ZULU.md",
+    "Aggregata.md",
     "Image/Pasted image 20240429181300.png",
     "Image/Pasted image 20240429181227.png",
     "Image/Pasted image 20240429181155.png",
@@ -172,7 +173,6 @@
     "Image/Pasted image 20240429180705.png",
     "Image/Pasted image 20240429180558.png",
     "Image/Pasted image 20240429180428.png",
-    "Image/Pasted image 20240429180340.png",
-    "Aggregata.md"
+    "Image/Pasted image 20240429180340.png"
   ]
 }
