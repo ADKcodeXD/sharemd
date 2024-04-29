@@ -13,16 +13,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# 排除文件
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle
-  - vendor/cache
-  - vendor/gems
-  - vendor/ruby/
-
 # 其他可选项
 permalink: /:year/:month/:day/:title/
 paginate: 5 # 每页显示的数量
