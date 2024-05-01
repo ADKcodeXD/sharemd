@@ -48,7 +48,7 @@ PC和手机都要记得绑定你的身份码
 
 ![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/autoupload1714556140000hjox04.png)
 
-获取身份码需要再官方控制台进行注册，
+获取身份码需要在官方控制台进行注册，
 
 点此处可以直达：
 
@@ -95,3 +95,33 @@ wget -O duokai.sh https://raw.githubusercontent.com/a3165458/Titan-Network/main/
 两者都可以，取决于git源的位置。
 
 执行之后，有中文提示，根据你的需求往下填写就行了。
+
+## 开发者积分获取 （Extra）
+
+> 由于官方discord被假冒，如果你想获取这个积分，可以帮助举报并获取积分
+
+流程：
+
+- 手机加入以下假冒discord 注意 不要点击任何链接，包括验证链接。
+
+https://discord.com/invite/web3depin
+
+**注意 不要点击任何链接**
+
+然后录屏,开始举报：
+
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/Image\1714557774000bfzlbw.png)
+
+
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/Image\17145577980001vy4bj.png)
+
+
+然后将录屏视频保存好，在表单填写信息：
+
+<a href="https://form.jotform.com/241211350990044">https://form.jotform.com/241211350990044</a>
+
+## 每日签到任务(Extra)
+
+<a href="https://titannet.io/airdrops/">https://titannet.io/airdrops/</a>
+
+这是官方的空投页面

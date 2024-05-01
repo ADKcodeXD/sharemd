@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aggregata.md",
+                "file": "TitanNetwork.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aggregata.md",
+                "file": "TitanNetwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aggregata.md",
+                "file": "TitanNetwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aggregata.md"
+                "file": "TitanNetwork.md"
               }
             }
           }
@@ -171,8 +171,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04a9c46ed78e3d1f",
+  "active": "6e820263075cf44c",
   "lastOpenFiles": [
+    "Image/17145577980001vy4bj.png",
+    "Image/1714557774000bfzlbw.png",
+    "Image/1714557690000tj4hhe.mp4",
+    "ZULU.md",
+    "README.md",
+    "TitanNetwork.md",
+    "Prom Testnet.md",
+    "Aggregata.md",
     "Image",
     "1714408360000u01a8u.png",
     "autoupload1714409590000s0o1w6.png",
@@ -183,12 +191,6 @@
     "autoupload1714556080000axhrzl.png",
     "autoupload1714556140000hjox04.png",
     "autoupload17145364490006qtr07.png",
-    "autoupload17145562570000wtbdf.png",
-    "README.md",
-    "TitanNetwork.md",
-    "Prom Testnet.md",
-    "Aggregata.md",
-    "ZULU.md",
     "Image/Pasted.md",
     "_includes/head.html",
     "_includes",
@@ -197,8 +199,6 @@
     "assets",
     "assetss",
     "style.scss",
-    "style/assets/style.scss",
-    "style/assets",
-    "style"
+    "style/assets/style.scss"
   ]
 }
