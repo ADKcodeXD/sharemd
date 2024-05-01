@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZULU.md",
+                "file": "Aggregata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5bb76a3640a1027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prom Testnet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e820263075cf44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aggregata.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZULU.md",
+                "file": "Aggregata.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZULU.md",
+                "file": "Aggregata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZULU.md"
+                "file": "Aggregata.md"
               }
             }
           }
@@ -146,19 +171,24 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f541ae7abf677f32",
+  "active": "04a9c46ed78e3d1f",
   "lastOpenFiles": [
-    "171440846100088wisx.png",
-    "ZULU.md",
-    "1714408599000ge1ppu.png",
-    "1714408563000mlp5dy.png",
-    "1714408547000om7hpj.png",
-    "1714408507000vrhmk9.png",
-    "1714408486000d88kzq.png",
-    "1714408438000hd074q.png",
-    "1714408388000zd8g9z.png",
+    "Image",
     "1714408360000u01a8u.png",
-    "17144083200005coy1w.png",
+    "autoupload1714409590000s0o1w6.png",
+    "autoupload1714536517000dh5x0v.png",
+    "autoupload1714536535000olhqw3.png",
+    "autoupload1714536683000e2183p.png",
+    "autoupload1714536716000l77vol.png",
+    "autoupload1714556080000axhrzl.png",
+    "autoupload1714556140000hjox04.png",
+    "autoupload17145364490006qtr07.png",
+    "autoupload17145562570000wtbdf.png",
+    "README.md",
+    "TitanNetwork.md",
+    "Prom Testnet.md",
+    "Aggregata.md",
+    "ZULU.md",
     "Image/Pasted.md",
     "_includes/head.html",
     "_includes",
@@ -169,8 +199,6 @@
     "style.scss",
     "style/assets/style.scss",
     "style/assets",
-    "style",
-    "README.md",
-    "Aggregata.md"
+    "style"
   ]
 }

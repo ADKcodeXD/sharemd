@@ -10,11 +10,14 @@
 
 https://greenfield.bnbchain.org/en/bridge?type=transfer-in
 
+![gh](https://raw.githubusercontent.com/adkcodexd/sharemd/main/autoupload1714409590000s0o1w6.png)
+
+
 跨链兑换手续费为1U左右
 
 同时每次获取积分也需要消耗BNB 大概在0.0001BNB一次对话
 
-所以不需要太多BNB即可，基本为0撸
+所以不需要太多BNB即可
 
 ## 过程
 
@@ -25,6 +28,8 @@ https://chromewebstore.google.com/detail/aggregata-gpt-to-earn/hhibbomloleicghkg
 安装好后，直接登录chatgpt
 
 https://chat.openai.com/
+
+
 
 这个时候就可以打开扩展应用 ， 首次进入先链接钱包
 
